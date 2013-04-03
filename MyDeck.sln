@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{929CE49F-C9E8-4541-B9E5-D191388C3B43}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDeck.Web", "MyDeck.Web\MyDeck.Web.csproj", "{929CE49F-C9E8-4541-B9E5-D191388C3B43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.Tests", "Web.Tests\Web.Tests.csproj", "{2B79906D-374D-4A84-AFD2-362E48ECEDAE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDeck.Web.Tests", "MyDeck.Web.Tests\MyDeck.Web.Tests.csproj", "{2B79906D-374D-4A84-AFD2-362E48ECEDAE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

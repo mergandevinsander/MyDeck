@@ -103,9 +103,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Web\Web.csproj">
+    <ProjectReference Include="..\MyDeck.Web\MyDeck.Web.csproj">
       <Project>{929CE49F-C9E8-4541-B9E5-D191388C3B43}</Project>
-      <Name>Web</Name>
+      <Name>MyDeck.Web</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
